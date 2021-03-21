@@ -1,0 +1,124 @@
+﻿  소스2.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xutility(1516,27): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xutility(1515): message : 컴파일되는 함수 템플릿 인스턴스화 'bool std::_Debug_lt_pred<_Pr&,double&,double&,0>(std::greater<int>&,_Ty1,_Ty2) noexcept(<expr>)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Pr=std::greater<int>,
+              _Ty1=double &,
+              _Ty2=double &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4323): message : 컴파일되는 함수 템플릿 인스턴스화 '_BidIt std::_Insertion_sort_unchecked<_RanIt,_Pr>(_BidIt,const _BidIt,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _BidIt=double *,
+              _RanIt=double *,
+              _Pr=std::greater<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4353): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::_Sort_unchecked<_RanIt,_Fn>(_RanIt,_RanIt,int,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _RanIt=double *,
+              _Fn=std::greater<int>,
+              _Pr=std::greater<int>
+          ]
+C:\Users\sys99\Desktop\IGRUS\[2020-2 ~] 매과제 알고리즘\week1_sort\week1_sort\소스2.cpp(16): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::sort<double*,std::greater<int>>(const _RanIt,const _RanIt,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _RanIt=double *,
+              _Pr=std::greater<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xutility(1516,20): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xutility(1516,62): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xutility(1516,54): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4259,101): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4334): message : 컴파일되는 함수 템플릿 인스턴스화 'std::pair<_RanIt,_RanIt> std::_Partition_by_median_guess_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _RanIt=double *,
+              _Pr=std::greater<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4259,91): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4263,92): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4263,82): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4273,40): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4273,30): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4285,40): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4285,30): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xutility(1518,57): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4202): message : 컴파일되는 함수 템플릿 인스턴스화 'bool std::_Debug_lt_pred<_Pr&,double&,double&,0>(std::greater<int>&,_Ty1,_Ty2) noexcept(false)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Pr=std::greater<int>,
+              _Ty1=double &,
+              _Ty2=double &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4323): message : 컴파일되는 함수 템플릿 인스턴스화 '_BidIt std::_Insertion_sort_unchecked<_RanIt,_Pr>(_BidIt,const _BidIt,_Pr)'에 대한 참조를 확인하세요.
+          with
+          [
+              _BidIt=double *,
+              _RanIt=double *,
+              _Pr=std::greater<int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xutility(1518,50): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xutility(1520,9): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+  week1_sort.vcxproj -> C:\Users\sys99\Desktop\IGRUS\[2020-2 ~] 매과제 알고리즘\week1_sort\Debug\week1_sort.exe
