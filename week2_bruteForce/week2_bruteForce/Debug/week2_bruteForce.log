@@ -1,2 +1,3 @@
-﻿  next_permutation.cpp
+﻿  nCr.cpp
+C:\Users\sys99\Desktop\IGRUS\[2020-2 ~] 매과제 알고리즘\week2_bruteForce\week2_bruteForce\nCr.cpp(12,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   week2_bruteForce.vcxproj -> C:\Users\sys99\Desktop\IGRUS\[2020-2 ~] 매과제 알고리즘\week2_bruteForce\Debug\week2_bruteForce.exe
